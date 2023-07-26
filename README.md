@@ -2,10 +2,13 @@
 The virtual experience programme is provided by Tata iQ or Tata Insights and Quants. 
 ## **There are 4 modules in this virtual experience programme.**
 
-**♦ Framing the Business Scenario**
+**♦ Task1-Framing the Business Scenario** 
 
-**♦ Choosing the Right Visuals**
 
-**♦ Creating Effective Visuals**
 
-**♦ Communicating Insights and Analysis**
+**♦ Task2-Choosing the Right Visuals**
+
+
+**♦ Task3-Creating Effective Visuals**
+
+**♦ Task4-Communicating Insights and Analysis**
